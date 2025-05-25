@@ -1,0 +1,15 @@
+{
+  "name": "pilipili-node",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "@larksuiteoapi/node-sdk": "^1.47.1",
+    "koa": "2.0.0",
+    "koa-bodyparser": "^4.4.1"
+  }
+}
